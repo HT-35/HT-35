@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
      Welcome to My GitHub Dashboard: Where  Huy Tran's Technology and Creativity Converge 
-</h3>
+</h1>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif" width="500" />
 </div>
