@@ -1,19 +1,9 @@
+<h3 align="center">
+     Welcome to My GitHub Dashboard: Where  Huy Tran's Technology and Creativity Converge 
+</h3>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?color=6bb890FF&type=rounded&section=footer&fontColor=ffffffFF&height=152&animation=&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=10b981FF&strokeWidth=2&text=HUY+TRAN%0A&reversal=true" alt="" />
+    <img src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif" width="500" />
 </div>
-<div align="center"><img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="40" />
-    <img width="45" />
-    <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="40" />
-    <img width="45" />
-    <img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
-    <img width="45" />
-    <img src="https://api.iconify.design/skill-icons/instagram.svg" alt="skill-icons:instagram" height="40" />
-    <img width="45" />
-    <img src="https://api.iconify.design/mdi/github.svg" alt="mdi:github" height="40" />
-</div>
-<h1 align="left">
-    
-</h1>
 <p align="left">
     💻Tech Stack
 </p>
@@ -101,7 +91,4 @@
 </div>
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/HT-35?animation=true&border=1&ext=heatmap&font=Baloo_2&height=200&hide=&radius=4&theme=nord&width=500" alt=""/>
-</div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif" width="500" />
 </div>
