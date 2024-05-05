@@ -1,4 +1,4 @@
-<h3 align="center">
+<h2 align="center">
      Welcome to My GitHub Dashboard: Where  Huy Tran's Technology and Creativity Converge 
 </h3>
 <div align="center">
