@@ -14,22 +14,22 @@
 		alt="" />
 </div>
 
-<div align="center"><img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="skill-icons:nodejs-dark"
-		height="54" />
-	<img width="45" />
-	<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg"
-		alt="vscode-icons:file-type-js-official" height="54" />
+<div align="center">
+<img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="skill-icons:nodejs-dark"
+	height="54" />
+<img width="45" />
+<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg" alt="vscode-icons:file-type-js-official" height="54" />
 
 <img width="45" />
 
 <img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" alt="vscode-icons:file-type-js-official"
-		height="54" />
-	<img width="45" />
-	<img src="https://api.iconify.design/devicon/nestjs.svg" alt="devicon:nginx" height="55" />
-	<img width="40" />
-	<img src="https://api.iconify.design/skill-icons/rabbitmq-dark.svg" alt="devicon:nginx" height="55" />
-	<img width="40" />
-	<img src="https://api.iconify.design/skill-icons/expressjs-light.svg" alt="simple-icons:express" height="54" />
+	height="54" />
+<img width="45" />
+<img src="https://api.iconify.design/devicon/nestjs.svg" alt="devicon:nginx" height="55" />
+<img width="40" />
+<img src="https://api.iconify.design/skill-icons/rabbitmq-dark.svg" alt="devicon:nginx" height="55" />
+<img width="40" />
+<img src="https://api.iconify.design/skill-icons/expressjs-light.svg" alt="simple-icons:express" height="54" />
 </div>
 <h1 align="left">
 
