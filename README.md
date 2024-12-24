@@ -70,6 +70,8 @@
     <img width="40" />
     <img src="https://api.iconify.design/devicon/nginx.svg" alt="devicon:nginx" height="55" />
     <img width="40" />
+     <img src="https://api.iconify.design/devicon/nestjs.svg" alt="devicon:nginx" height="55" />
+    <img width="40" />
     <img src="https://api.iconify.design/devicon/git.svg" alt="devicon:git" height="55" />
     <img width="40" />
     <img src="https://api.iconify.design/logos/npm.svg" alt="logos:npm" height="55" />
