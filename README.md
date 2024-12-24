@@ -13,13 +13,23 @@
 		src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=true&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=400&height=50&font=Fira+Code&lines=%E2%9C%94+Back-end+%F0%9F%94%B4&vCenter=true&size=20"
 		alt="" />
 </div>
+
 <div align="center"><img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="skill-icons:nodejs-dark"
 		height="54" />
 	<img width="45" />
-	<img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" alt="vscode-icons:file-type-js-official"
+	<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg"
+		alt="vscode-icons:file-type-js-official" height="54" />
+
+<img width="45" />
+
+<img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" alt="vscode-icons:file-type-js-official"
 		height="54" />
 	<img width="45" />
-	<img src="https://api.iconify.design/simple-icons/express.svg" alt="simple-icons:express" height="54" />
+	<img src="https://api.iconify.design/devicon/nestjs.svg" alt="devicon:nginx" height="55" />
+	<img width="40" />
+	<img src="https://api.iconify.design/skill-icons/rabbitmq-dark.svg" alt="devicon:nginx" height="55" />
+	<img width="40" />
+	<img src="https://api.iconify.design/skill-icons/expressjs-light.svg" alt="simple-icons:express" height="54" />
 </div>
 <h1 align="left">
 
@@ -33,11 +43,17 @@
 	<img width="45" />
 	<img src="https://api.iconify.design/devicon/css3.svg" alt="devicon:css3" height="55" />
 	<img width="45" />
+	<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg"
+		alt="vscode-icons:file-type-js-official" height="54" />
+
+<img width="45" />
 	<img src="https://api.iconify.design/devicon/javascript.svg" alt="devicon:javascript" height="55" />
 	<img width="45" />
-	<img src="https://api.iconify.design/devicon/tailwindcss.svg" alt="devicon:tailwindcss" height="55" />
+	<img src="https://api.iconify.design/skill-icons/nextjs-light.svg" alt="devicon:react" height="55" />
 	<img width="45" />
 	<img src="https://api.iconify.design/devicon/react.svg" alt="devicon:react" height="55" />
+	<img width="45" />
+	<img src="https://api.iconify.design/devicon/tailwindcss.svg" alt="devicon:tailwindcss" height="55" />
 </div>
 <h1 align="left">
 
@@ -52,6 +68,8 @@
 	<img src="https://api.iconify.design/vscode-icons/file-type-mongo.svg" alt="vscode-icons:file-type-mongo"
 		height="55" />
 	<img width="45" />
+	<img src="https://api.iconify.design/skill-icons/redis-dark.svg" alt="vscode-icons:file-type-mongo" height="55" />
+	<img width="45" />
 	<img src="https://api.iconify.design/devicon-plain/microsoftsqlserver-wordmark.svg"
 		alt="devicon-plain:microsoftsqlserver-wordmark" height="55" />
 </div>
@@ -63,18 +81,35 @@
 		src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=true&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=400&height=50&font=Fira+Code&lines=%E2%9C%94+DevOps&vCenter=true&size=20"
 		alt="" />
 </div>
-<div align="center"><img src="https://api.iconify.design/devicon/docker.svg" alt="devicon:docker" height="60" />
+<div align="center">
+
+<img src="https://api.iconify.design/devicon/docker.svg" alt="devicon:docker" height="60" />
+	<img width="45" />
+	<img src="https://api.iconify.design/skill-icons/kubernetes.svg" alt="devicon:docker" height="60" />
 </div>
 <h1 align="left">
 
 </h1>
 <div align="left">
 	<img
+		src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=true&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=400&height=50&font=Fira+Code&lines=%E2%9C%94+Mobile&vCenter=true&size=20"
+		alt="" />
+</div>
+<div align="center">
+	<img src="https://api.iconify.design/skill-icons/dart-light.svg" alt="devicon:vscode" height="55" />
+	<img width="45" />
+	<img src="https://api.iconify.design/skill-icons/flutter-light.svg" alt="devicon:vscode" height="55" />
+</div>
+<div align="left">
+	<img
 		src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=true&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=400&height=50&font=Fira+Code&lines=%E2%9C%94+IDE&vCenter=true&size=20"
 		alt="" />
 </div>
-<div align="center"><img src="https://api.iconify.design/devicon/vscode.svg" alt="devicon:vscode" height="55" />
+<div align="center">
+	<img src="https://api.iconify.design/devicon/vscode.svg" alt="devicon:vscode" height="55" />
 </div>
+
+
 <h1 align="center">
 
 </h1>
@@ -87,9 +122,8 @@
 	<img width="40" />
 	<img src="https://api.iconify.design/devicon/nginx.svg" alt="devicon:nginx" height="55" />
 	<img width="40" />
-	<img src="https://api.iconify.design/devicon/nestjs.svg" alt="devicon:nginx" height="55" />
-	<img width="40" />
-	<img src="https://api.iconify.design/devicon/git.svg" alt="devicon:git" height="55" />
+
+<img src="https://api.iconify.design/devicon/git.svg" alt="devicon:git" height="55" />
 	<img width="40" />
 	<img src="https://api.iconify.design/logos/npm.svg" alt="logos:npm" height="55" />
 	<img width="40" />
