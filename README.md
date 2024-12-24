@@ -14,22 +14,22 @@
 		alt="" />
 </div>
 
-<div align="center">
-<img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="skill-icons:nodejs-dark"
-	height="54" />
-<img width="45" />
-<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg" alt="vscode-icons:file-type-js-official" height="54" />
+<div align="center"><img src="https://api.iconify.design/skill-icons/nodejs-dark.svg" alt="skill-icons:nodejs-dark"
+		height="55" />
+	<img width="45" />
+	<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg"
+		alt="vscode-icons:file-type-js-official" height="55" />
 
-<img width="45" />
+	<img width="45" />
 
-<img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" alt="vscode-icons:file-type-js-official"
-	height="54" />
-<img width="45" />
-<img src="https://api.iconify.design/devicon/nestjs.svg" alt="devicon:nginx" height="55" />
-<img width="40" />
-<img src="https://api.iconify.design/skill-icons/rabbitmq-dark.svg" alt="devicon:nginx" height="55" />
-<img width="40" />
-<img src="https://api.iconify.design/skill-icons/expressjs-light.svg" alt="simple-icons:express" height="54" />
+	<img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" alt="vscode-icons:file-type-js-official"
+		height="55" />
+	<img width="45" />
+	<img src="https://api.iconify.design/devicon/nestjs.svg" alt="devicon:nginx" height="55" />
+	<img width="40" />
+	<img src="https://api.iconify.design/skill-icons/rabbitmq-dark.svg" alt="devicon:nginx" height="55" />
+	<img width="40" />
+	<img src="https://api.iconify.design/skill-icons/expressjs-light.svg" alt="simple-icons:express" height="55" />
 </div>
 <h1 align="left">
 
@@ -44,9 +44,9 @@
 	<img src="https://api.iconify.design/devicon/css3.svg" alt="devicon:css3" height="55" />
 	<img width="45" />
 	<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg"
-		alt="vscode-icons:file-type-js-official" height="54" />
+		alt="vscode-icons:file-type-js-official" height="55" />
 
-<img width="45" />
+	<img width="45" />
 	<img src="https://api.iconify.design/devicon/javascript.svg" alt="devicon:javascript" height="55" />
 	<img width="45" />
 	<img src="https://api.iconify.design/skill-icons/nextjs-light.svg" alt="devicon:react" height="55" />
@@ -83,7 +83,7 @@
 </div>
 <div align="center">
 
-<img src="https://api.iconify.design/devicon/docker.svg" alt="devicon:docker" height="60" />
+	<img src="https://api.iconify.design/devicon/docker.svg" alt="devicon:docker" height="60" />
 	<img width="45" />
 	<img src="https://api.iconify.design/skill-icons/kubernetes.svg" alt="devicon:docker" height="60" />
 </div>
@@ -118,20 +118,21 @@
 		src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=true&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=400&height=50&font=Fira+Code&lines=%E2%9C%94+Tools&vCenter=true&size=20"
 		alt="" />
 </div>
-<div align="center"><img src="https://api.iconify.design/mdi/github.svg" alt="mdi:github" height="55" />
-	<img width="40" />
-	<img src="https://api.iconify.design/devicon/nginx.svg" alt="devicon:nginx" height="55" />
-	<img width="40" />
+<div align="center">
+<img src="https://api.iconify.design/mdi/github.svg" alt="mdi:github" height="55" />
+<img width="40" />
+<img src="https://api.iconify.design/devicon/nginx.svg" alt="devicon:nginx" height="55" />
+<img width="40" />
 
 <img src="https://api.iconify.design/devicon/git.svg" alt="devicon:git" height="55" />
-	<img width="40" />
-	<img src="https://api.iconify.design/logos/npm.svg" alt="logos:npm" height="55" />
-	<img width="40" />
-	<img src="https://api.iconify.design/devicon/yarn-wordmark.svg" alt="devicon:yarn-wordmark" height="55" />
-	<img width="40" />
-	<img src="https://api.iconify.design/skill-icons/wordpress.svg" alt="skill-icons:wordpress" height="55" />
-	<img width="40" />
-	<img src="https://api.iconify.design/logos/figma.svg" alt="logos:figma" height="55" />
+<img width="40" />
+<img src="https://api.iconify.design/logos/npm.svg" alt="logos:npm" height="55" />
+<img width="40" />
+<img src="https://api.iconify.design/devicon/yarn-wordmark.svg" alt="devicon:yarn-wordmark" height="55" />
+<img width="40" />
+<img src="https://api.iconify.design/skill-icons/wordpress.svg" alt="skill-icons:wordpress" height="55" />
+<img width="40" />
+<img src="https://api.iconify.design/logos/figma.svg" alt="logos:figma" height="55" />
 </div>
 <h1 align="center">
 
