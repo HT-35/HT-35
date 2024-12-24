@@ -20,9 +20,9 @@
 	<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg"
 		alt="vscode-icons:file-type-js-official" height="55" />
 
-	<img width="45" />
+<img width="45" />
 
-	<img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" alt="vscode-icons:file-type-js-official"
+<img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" alt="vscode-icons:file-type-js-official"
 		height="55" />
 	<img width="45" />
 	<img src="https://api.iconify.design/devicon/nestjs.svg" alt="devicon:nginx" height="55" />
@@ -46,7 +46,7 @@
 	<img src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg"
 		alt="vscode-icons:file-type-js-official" height="55" />
 
-	<img width="45" />
+<img width="45" />
 	<img src="https://api.iconify.design/devicon/javascript.svg" alt="devicon:javascript" height="55" />
 	<img width="45" />
 	<img src="https://api.iconify.design/skill-icons/nextjs-light.svg" alt="devicon:react" height="55" />
@@ -83,7 +83,7 @@
 </div>
 <div align="center">
 
-	<img src="https://api.iconify.design/devicon/docker.svg" alt="devicon:docker" height="60" />
+<img src="https://api.iconify.design/devicon/docker.svg" alt="devicon:docker" height="60" />
 	<img width="45" />
 	<img src="https://api.iconify.design/skill-icons/kubernetes.svg" alt="devicon:docker" height="60" />
 </div>
