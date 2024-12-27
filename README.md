@@ -90,16 +90,7 @@
 <h1 align="left">
 
 </h1>
-<div align="left">
-	<img
-		src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=true&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=400&height=50&font=Fira+Code&lines=%E2%9C%94+Mobile&vCenter=true&size=20"
-		alt="" />
-</div>
-<div align="center">
-	<img src="https://api.iconify.design/skill-icons/dart-light.svg" alt="devicon:vscode" height="55" />
-	<img width="45" />
-	<img src="https://api.iconify.design/skill-icons/flutter-light.svg" alt="devicon:vscode" height="55" />
-</div>
+
 <div align="left">
 	<img
 		src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=true&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=400&height=50&font=Fira+Code&lines=%E2%9C%94+IDE&vCenter=true&size=20"
