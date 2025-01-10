@@ -125,16 +125,3 @@
 <img width="40" />
 <img src="https://api.iconify.design/logos/figma.svg" alt="logos:figma" height="55" />
 </div>
-<h1 align="center">
-
-</h1>
-<div align="center">
-	<img
-		src="https://github-readme-stats.vercel.app/api?username=HT-35&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=default&hide=&show=&locale=EN" />
-</div>
-
-<div align="center">
-	<img
-		src="https://leetcard.jacoblin.cool/HT-35?animation=true&border=1&ext=heatmap&font=Baloo_2&height=200&hide=&radius=4&theme=nord&width=500"
-		alt="" />
-</div>
